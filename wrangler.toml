@@ -1,0 +1,7 @@
+name = "cf-edge-shortlink"
+main = "src/index.ts"
+compatibility_date = "2024-10-01"
+
+kv_namespaces =  [
+    { binding = "SHORT_URLS" , id = "73878ae5571a48d495e18ab7bfeea2f7"}
+]
